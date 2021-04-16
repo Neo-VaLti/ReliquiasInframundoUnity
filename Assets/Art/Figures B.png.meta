@@ -1,0 +1,412 @@
+fileFormatVersion: 2
+guid: bf554f0b6fd7e664b850955de86564d3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Figures B
+    21300002: 100X100
+    21300004: 600X100TR
+    21300006: 600X100T
+    21300008: 50X100HC
+    21300010: 200X100
+    21300012: 500X100TR
+    21300014: 50X100HC
+    21300016: 300X100
+    21300018: 400X100TR
+    21300020: 200X50HO
+    21300022: 400X100
+    21300024: 300X100TR
+    21300026: 50X100HRR
+    21300028: 500X100
+    21300030: 200X100TR
+    21300032: 600X100
+    21300034: 100X100TR
+    21300036: 100X100T
+    21300038: 200X100T
+    21300040: 200X100O
+    21300042: 200X100RR
+    21300044: 200X100T
+    21300046: 200C
+    21300048: 100HC
+    21300050: 100HO
+    21300052: 100C
+    21300054: 300X100T
+    21300056: 100?
+    21300058: 100H
+    21300060: 60X200A
+    21300062: 50X100P
+    21300064: Figures B_30
+    21300066: 100X100RR
+    21300068: 200X100E
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 100X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 907
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 600X100TR
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 907
+        width: 602
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 600X100T
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 402
+        width: 102
+        height: 608
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 50X100HC
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 907
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 203
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 500X100TR
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 791
+        width: 502
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 50X100P
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 793
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 300X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 303
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 400X100TR
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 676
+        width: 409
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X50HO
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 582
+        width: 52
+        height: 203
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 400X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 403
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 300X100TR
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 557
+        width: 307
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 50X100HRR
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 460
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 500X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 503
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100TR
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 441
+        width: 205
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 600X100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 603
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100X100TR
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 318
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100X100T
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100T
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 209
+        width: 405
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100O
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 209
+        width: 202
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100RR
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 189
+        width: 203
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100T
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 103
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200C
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100HC
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 102
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100HO
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 101
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100C
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 100
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 300X100T
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 77
+        width: 305
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100?
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 113
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100H
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 60X200A
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 9
+        width: 203
+        height: 63
+      alignment: 9
+      pivot: {x: .100000001, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Figures B_30
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 503
+        width: 103
+        height: 507
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 100X100RR
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 400
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 200X100E
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 297
+        width: 202
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
